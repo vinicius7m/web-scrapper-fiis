@@ -71,8 +71,7 @@ Administrador | Código Negociação | Cotação | Valor Último Rendimento | Yi
 
 * Geração de gráficos com `matplotlib`.
 
----
+## Referências
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
+* Código Fonte: [Python na Prática fazendo Web Scraping (de JavaScript dinâmico) // Mão no Código #28
+](https://www.youtube.com/watch?v=Vxl5jUltHBo)
