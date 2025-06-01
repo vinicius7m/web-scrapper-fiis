@@ -1,0 +1,13 @@
+name: fii-scraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - beautifulsoup4
+  - selenium
+  - requests
+  - pip
+  - pip:
+      - webdriver-manager
